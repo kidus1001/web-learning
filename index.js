@@ -34,3 +34,4 @@ document.addEventListener("DOMContentLoaded", function () {
         getStartedBtn.style.transform = "scale(1)";
     });
 });
+
