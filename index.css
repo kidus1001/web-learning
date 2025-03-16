@@ -104,3 +104,13 @@ header {
     background: rgb(204, 25, 34);
     transform: scale(1.05);
 }
+
+@media all and (max-width: 700px) {
+    .InputEmail {
+        padding-right: 100px;
+    }
+
+    .InputEmail::placeholder {
+        padding-top: 15px;
+    }
+}
