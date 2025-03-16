@@ -113,4 +113,12 @@ header {
     .InputEmail::placeholder {
         padding-top: 15px;
     }
+
+    .Hero h1 {
+        color: aquamarine;
+    }
+
+    .netflixLogo {
+        
+    }
 }
